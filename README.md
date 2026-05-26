@@ -1,0 +1,2 @@
+# Orohtua-Orohtua
+mindfighter-core
